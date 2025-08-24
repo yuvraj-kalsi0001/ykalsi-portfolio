@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/ykalsi-portfolio/static/css/main.f40bc316.css",
-    "main.js": "/ykalsi-portfolio/static/js/main.66fa0db7.js",
+    "main.css": "/ykalsi-portfolio/static/css/main.bbd053de.css",
+    "main.js": "/ykalsi-portfolio/static/js/main.3a8a7cbe.js",
     "static/media/pexels-victorfreitas-841130.jpg": "/ykalsi-portfolio/static/media/pexels-victorfreitas-841130.a8e9f550e94bfbf52421.jpg",
     "static/media/htcondor-poster.png": "/ykalsi-portfolio/static/media/htcondor-poster.bf9be53aa375a6bb66cb.png",
     "static/media/Satellite.png": "/ykalsi-portfolio/static/media/Satellite.7c611cbb1a85dd57fa69.png",
     "static/media/detailedactivityview.png": "/ykalsi-portfolio/static/media/detailedactivityview.554cda6e01aae1681597.png",
     "static/media/AIWatch.png": "/ykalsi-portfolio/static/media/AIWatch.8b19e7d72e025117168f.png",
     "static/media/HTCondor_red_blk_notag.png": "/ykalsi-portfolio/static/media/HTCondor_red_blk_notag.3f22275654f2bf0da06f.png",
-    "static/media/Yuvraj_Kalsi_Resume.pdf": "/ykalsi-portfolio/static/media/Yuvraj_Kalsi_Resume.c155d4608b86b43d6fc1.pdf",
+    "static/media/Yuvraj_Kalsi_Resume.pdf": "/ykalsi-portfolio/static/media/Yuvraj_Kalsi_Resume.fa15f7ac038b051cf35b.pdf",
     "static/media/Y.ico": "/ykalsi-portfolio/static/media/Y.82e83968c4a2a18c43fd.ico",
+    "static/media/library_index.PNG": "/ykalsi-portfolio/static/media/library_index.efbfa37e69afe1c8c489.PNG",
     "static/media/satellite-2.jpg": "/ykalsi-portfolio/static/media/satellite-2.3e02ad333fd7799ff3d1.jpg",
     "static/media/Y.png": "/ykalsi-portfolio/static/media/Y.c0e9c4b2f284617feb59.png",
     "static/media/MunTransparentlogoRGB.png": "/ykalsi-portfolio/static/media/MunTransparentlogoRGB.b850db43a0aaf02e6c22.png",
     "index.html": "/ykalsi-portfolio/index.html",
-    "main.f40bc316.css.map": "/ykalsi-portfolio/static/css/main.f40bc316.css.map",
-    "main.66fa0db7.js.map": "/ykalsi-portfolio/static/js/main.66fa0db7.js.map"
+    "main.bbd053de.css.map": "/ykalsi-portfolio/static/css/main.bbd053de.css.map",
+    "main.3a8a7cbe.js.map": "/ykalsi-portfolio/static/js/main.3a8a7cbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.f40bc316.css",
-    "static/js/main.66fa0db7.js"
+    "static/css/main.bbd053de.css",
+    "static/js/main.3a8a7cbe.js"
   ]
 }
